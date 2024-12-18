@@ -6,6 +6,7 @@ Simple Website/API for downloading instagram videos made with Next.js that actua
 > The website preview has been shut down due to exceeding the free usage limit on Vercel with more than **2,000,000** visits for the past week. Since I don't make any money from this website, I had to close it.
 
 ![image]
+![Instagram Video Downloader - Google Chrome 17-12-2024 21_38_45](https://github.com/user-attachments/assets/bb31e33e-d8d6-4398-9660-a0cc4ff8fd9f)
 
 
 ## Description
