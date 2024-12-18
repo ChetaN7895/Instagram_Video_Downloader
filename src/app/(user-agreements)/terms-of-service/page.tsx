@@ -116,7 +116,7 @@ const TermsOfServicePage = () => {
         <p className="mb-2">
           <span className="font-semibold">7.1.</span> If you have any questions
           or concerns about this ToS, please contact the Website owner at{" "}
-          <span className="italic">riadh.azzoun@hotmail.com</span>.
+          <span className="italic">chetansolanki0003@gmail.com</span>.
         </p>
       </section>
 
