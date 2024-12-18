@@ -20,7 +20,7 @@ You can preview and try the website live in Vercel here : [instagram-videos.verc
 
 Easy and User friendly UI (Interactions feedback and error messages).
 
-![Desktop preview](https://github.com/riad-azz/readme-storage/blob/main/instagram-videos-downloader/desktop-preview.gif?raw=true)
+![Desktop preview]
 
 Responsive on mobile and small devices.
 
