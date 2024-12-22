@@ -1,4 +1,4 @@
-LIVE CODE : https://instavideodownloader.netlify.app/
+LIVE CODE : https://instavideodownloader-com.onrender.com/
 
 # Instagram Videos Downloader
 
@@ -17,7 +17,7 @@ A website that lets you download Instagram videos easily and quickly. You can pa
 
 _Note: Instagram stories aren't supported._
 
-You can preview and try the website live in Vercel here : [https://instavideodownloader.netlify.app/]
+You can preview and try the website live in Vercel here : [https://instavideodownloader-com.onrender.com/]
 
 ## Website Preview
 
