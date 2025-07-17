@@ -14,7 +14,7 @@ A website that lets you download Instagram videos easily and quickly. You can pa
 
 _Note: Instagram stories aren't supported._
 
-You can preview and try the website live in Vercel here : [https://instavideodownloader-com.onrender.com/]
+You can preview and try the website live in Vercel here :[https://instagram-video-downloader-mu.vercel.app/]
 
 ## Website Preview
 
