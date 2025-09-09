@@ -1,6 +1,6 @@
 import { Metadata } from "next";
 import { DM_Sans as FontSans } from "next/font/google";
-import Script from "next/script"; // ✅ Import Script
+import Script from "next/script"; // ✅ Correct import
 
 import { Navbar, Footer } from "@/components/layout";
 import { ThemeProvider } from "@/components/providers/theme-provider";
@@ -33,7 +33,7 @@ export default function RootLayout({
           "overflow-x-hidden bg-background font-sans antialiased"
         )}
       >
-        {/* ✅ Add AdSense Script */}
+        {/* ✅ Correctly load AdSense script with Next.js Script */}
         <Script
           async
           src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6262293062544734"
