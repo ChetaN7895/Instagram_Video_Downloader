@@ -1,6 +1,6 @@
 import { Metadata } from "next";
 import { DM_Sans as FontSans } from "next/font/google";
-import Script from "next/script"; // ✅ Correct import
+import Script from "next/script";
 
 import { Navbar, Footer } from "@/components/layout";
 import { ThemeProvider } from "@/components/providers/theme-provider";
@@ -18,6 +18,9 @@ const fontSans = FontSans({
 export const metadata: Metadata = {
   title: "Instagram Video Downloader",
   description: "Download Instagram Videos",
+  other: {
+    "google-adsense-account": "ca-pub-6262293062544734", // ✅ Add here
+  },
 };
 
 export default function RootLayout({
@@ -27,13 +30,13 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en" suppressHydrationWarning>
+      <head />
       <body
         className={cn(
           fontSans.variable,
           "overflow-x-hidden bg-background font-sans antialiased"
         )}
       >
-        {/* ✅ Correctly load AdSense script with Next.js Script */}
         <Script
           async
           src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6262293062544734"
