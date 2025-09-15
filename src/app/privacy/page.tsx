@@ -20,7 +20,7 @@ export default function PrivacyPolicy() {
             Please read our privacy policy carefully to understand how we
             collect, use, protect, or otherwise handle your Personally
             Identifiable Information in accordance with our website{" "}
-            <strong>https://instagram-video-downloader-mu.vercel.app/</strong>.
+            <strong>https://instavideodownloader.netlify.app/</strong>.
           </p>
 
           {/* What personal info */}
