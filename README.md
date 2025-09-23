@@ -4,8 +4,8 @@ LIVE CODE : https://instavideodownloader-com.onrender.com/
 
 Simple Website/API for downloading instagram videos made with Next.js that actually works with no problem.
 
-![image]
-![Instagram Video Downloader - Google Chrome 17-12-2024 21_38_45](https://github.com/user-attachments/assets/bb31e33e-d8d6-4398-9660-a0cc4ff8fd9f)
+<img width="1298" height="711" alt="Image" src="https://github.com/user-attachments/assets/7e746250-0f69-44bc-a7fa-76d6641cc3b0" />
+
 
 
 ## Description
@@ -25,7 +25,7 @@ https://github.com/user-attachments/assets/a1af3391-2612-4059-ba5a-f69f3b89254b)
 
 Responsive on mobile and small devices.
 
-![Mobile preview](https://github.com/riad-azz/readme-storage/blob/main/instagram-videos-downloader/mobile-preview.gif?raw=true)
+![Image](https://github.com/user-attachments/assets/a4a717cc-2b55-4033-9a35-0aeac757a675)
 
 ## Getting Started
 
